@@ -17,6 +17,6 @@
     },
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/helpers/*.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/helpers/*.js", "next.config.mjs"],
   "exclude": ["node_modules"]
 }
